@@ -1,12 +1,15 @@
-# sistema_codeigniter
+#Author: Jonathan Castro<br>
+Versiones:<br>
+Codeigniter 3.1.9<br>
+Base de datos Mysql<br>
+Jquery 3.3.1<br>
+Bootstrap 3.3.7<br> 
 
-Pequeño sistema de usuarios
+Sistema de usuarios<br>
 
-Proyecto realizado con codeigniter version 3.1.8
+user: admin<br>
+pass: 123<br>
 
-user: admin
-pass: 123
+https://vimeo.com/270879687<br>
 
-https://vimeo.com/270879687
-
-https://testcastro.000webhostapp.com/proyecto_codeigniter/index.php
+https://testcastro.000webhostapp.com/proyecto_codeigniter/index.php<br>
